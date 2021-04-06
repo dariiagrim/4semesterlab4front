@@ -1,0 +1,9 @@
+button {
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    margin-top: 100px;
+    display: block;
+    font-size: 48px;
+    font-weight: bold;
+}
